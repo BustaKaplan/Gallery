@@ -32,8 +32,7 @@
   position: fixed;
   z-index: 999999;
   overflow: hidden;
-  background: #000;
-  background: rgba(0, 0, 0, 0.9);
+  background: #D3D3D3;
   opacity: 0;
   display: none;
   direction: ltr;
@@ -110,8 +109,8 @@
   text-decoration: none;
   text-shadow: 0 0 2px #000;
   text-align: center;
-  background: #222;
   background: rgba(0, 0, 0, 0.5);
+  background: #cccccc;
   -webkit-box-sizing: content-box;
      -moz-box-sizing: content-box;
           box-sizing: content-box;
